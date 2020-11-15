@@ -13,7 +13,7 @@ Manage your time effectively with a daily planner using the Work Day Scheduler
 ## Website
 https://gabrielazalta.github.io/work-day-scheduler/
 
-![Screenshot](/images/screenshot.JPG)
+![Screenshot](\image\screenshot.JPG)
 
 ## Contribution
 Made with ❤️ by Gabriela Zalta
