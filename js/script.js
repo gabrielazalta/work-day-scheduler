@@ -12,8 +12,10 @@ $(document).ready(function(){
         localStorage.setItem(task, time);
 
         //keep information after user refrshes page
-        var taskSaved = localStorage.getItem(task, time);
-        $(this).val(taskSaved);
+
+        $("time-block").each(function (){
+            localStorage.getItem(task);
+        });
         
     })
 
